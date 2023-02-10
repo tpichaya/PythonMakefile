@@ -10,5 +10,5 @@ def main() :
     print(y,'\nEnd of md1’)
 
 main()    
-#if __name__ == "__main__" :
-#    main()
+if __name__ == "__main__" :
+    main()
